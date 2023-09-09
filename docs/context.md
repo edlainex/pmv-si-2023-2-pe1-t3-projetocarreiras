@@ -30,7 +30,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 ## Objetivos
 
 Objetivo Geral
-Instruir, capacitar e ajudar pessoas de todos os estados brasileiros que estão fora do mercado de trabalho a obter uma recolocação profissional.
+Instruir, capacitar e ajudar pessoas de todos os estados brasileiros que estão fora do mercado de trabalho a obter uma recolocação profissional. (teste1)
 
 
 
